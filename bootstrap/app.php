@@ -1,5 +1,7 @@
 <?php
-
+/*
+This is the the simple comment modification which i had made for 
+*/
 /*
 |--------------------------------------------------------------------------
 | Create The Application
