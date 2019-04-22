@@ -46,17 +46,17 @@
             }
 
             .title {
-                font-size: 85px;
+                font-size: 90px;
             }
 
             .links > a {
                 color: red;
                 padding: 0 30px;
-                font-size: 14px;
+                font-size: 18px;
                 font-weight: 700;
                 letter-spacing: .1rem;
                 text-decoration: none;
-                text-transform: uppercase;
+                text-transform: lowercase;
             }
 
             .m-b-md {
